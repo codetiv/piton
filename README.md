@@ -1,1 +1,1 @@
-# piton
+# python practice/exercise
